@@ -17,4 +17,4 @@ The Presentation Poster can be found under: "Obesity Analysis Poster"
 
 The Dataset we used can be found under: "ObesityDataSet.csv"
 
-***Dataset credits to UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+  
+***Dataset credits to UCI Machine Learning Repository:*** https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+  
