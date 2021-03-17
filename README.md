@@ -7,7 +7,7 @@ Using exploratory linear regression and clustering, we aim to examine several at
 Dataset Information:
 
 The dataset consists of data collected from individuals from Mexico, Peru, and Colombia. This data is useful for the estimation of the obesity levels based on eating habits and physical conditions. There are 2111 instances and 17 different attributes. Additionally, the data is classified using the values of Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II and Obesity Type III.
-NOTE:
+
 
 The main report can be found under: "COGS 109 Final Report.pdf"
 
